@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Web",
+  "BasePlatform": "Web",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{3006EE87-2908-468B-B466-7087BDC35A79}",
+    "Language": "SFX",
+    "Hash": "{C4790B58-061D-AFD9-9E46-C0B655EF7A24}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\main",
+    "ShortName": "main",
+    "Path": "main.bnk",
+    "Media": [
+     {
+      "Id": "404679844",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Soft Spot.wav",
+      "CachePath": "F5/{F57A87DD-1FD8-393C-CCE5-9B73198FF86F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2731321125",
+      "Name": "Play_Soft_Spot",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Soft_Spot",
+      "GUID": "{2DE10E57-9317-46B8-83C5-C070427AFC7A}",
+      "DurationType": "OneShot",
+      "DurationMin": "204.3356",
+      "DurationMax": "204.3356",
+      "MediaRefs": [
+       {
+        "Id": "404679844"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{589D9461-649F-7BF4-0A24-3EB668C21F98}"
+ }
+}

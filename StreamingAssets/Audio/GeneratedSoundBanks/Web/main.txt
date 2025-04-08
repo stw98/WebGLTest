@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2731321125	Play_Soft_Spot			\Default Work Unit\Play_Soft_Spot	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	404679844	Soft Spot	C:\Users\MRLAB\Documents\GitHub\WebTest\WebTest_WwiseProject\.cache\F5\{F57A87DD-1FD8-393C-CCE5-9B73198FF86F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Soft Spot		39232532
+
